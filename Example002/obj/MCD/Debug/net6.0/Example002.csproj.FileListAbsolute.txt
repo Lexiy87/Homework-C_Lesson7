@@ -1,0 +1,15 @@
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\bin\MCD\Debug\net6.0\Example002.exe
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\bin\MCD\Debug\net6.0\Example002.deps.json
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\bin\MCD\Debug\net6.0\Example002.runtimeconfig.json
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\bin\MCD\Debug\net6.0\Example002.dll
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\bin\MCD\Debug\net6.0\Example002.pdb
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\Example002.csproj.AssemblyReference.cache
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\Example002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\Example002.AssemblyInfoInputs.cache
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\Example002.AssemblyInfo.cs
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\Example002.csproj.CoreCompileInputs.cache
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\Example002.dll
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\refint\Example002.dll
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\Example002.pdb
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\Example002.genruntimeconfig.cache
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson7\Example002\obj\MCD\Debug\net6.0\ref\Example002.dll
